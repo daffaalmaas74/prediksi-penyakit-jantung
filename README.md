@@ -6,6 +6,7 @@ Proyek ini mencakup:
 - Visualisasi menggunakan Seaborn dan Matplotlib
 - Pelatihan model Naive Bayes dan Decision Tree
 - Evaluasi akurasi model dalam memprediksi penyakit jantung
-
+  
+Dataset yang digunakan berasal dari UCI Machine Learning Repository.
 
 
